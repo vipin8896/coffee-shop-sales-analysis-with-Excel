@@ -30,6 +30,5 @@ The dataset includes transactions with the following fields:
 `product_type`, `product_detail`
 
 ## 📊 Dashboard Preview
-(Yahan apne dashboard ka screenshot daalo)
 ![Dashboard Screenshot](screenshot.png)
 
